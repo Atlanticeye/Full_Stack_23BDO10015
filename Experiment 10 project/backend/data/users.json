@@ -1,0 +1,30 @@
+[
+  {
+    "id": "42d939a5-2bd4-4159-85d1-d60a0739693f",
+    "name": "Shivam Agarwal",
+    "email": "23BCS13100@cuchd.in",
+    "password": "$2b$10$swfKSw2eqKsSwexU8YFqPeargVm3/GwFugSGeiSXSjrOphx6NO3cy",
+    "role": "CUSTOMER"
+  },
+  {
+    "id": "1c32a687-a0de-423d-ab81-4792bdf4f258",
+    "name": "saxenaji009",
+    "email": "aryansaxena9452@gmail.com",
+    "password": "$2b$10$ewhADXp2xNJWO29SmB5Ij.LDZMsdPGCDzki.2Rr9AKxMkvX8N9Jyu",
+    "role": "CUSTOMER"
+  },
+  {
+    "id": "46e68ac2-c476-4a11-8a6d-f0053f24bc94",
+    "name": "aryan Saxena ",
+    "email": "aryansaxena9452444@gmail.com",
+    "password": "$2b$10$hS6p4ZBLjkGHdqrNWn9Cu.VcpkcoxQEk1o3Q4GEGhuq90I4UFJozC",
+    "role": "CUSTOMER"
+  },
+  {
+    "id": "1f70ba10-9c03-436a-a749-6070dde47f2e",
+    "name": "qwe",
+    "email": "aryansaxena49452@gmail.com",
+    "password": "$2b$10$IQKzUR0yOs//CBhxwynvGeIL5x8Mxw7WhHIoRkxdVGYWKcYmxOPd2",
+    "role": "CUSTOMER"
+  }
+]

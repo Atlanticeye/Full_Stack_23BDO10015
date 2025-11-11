@@ -1,0 +1,110 @@
+[
+  {
+    "id": "p1",
+    "name": "Handmade Mug",
+    "price": 299,
+    "shortDesc": "Ceramic mug",
+    "longDesc": "A handcrafted ceramic mug, microwave safe.",
+    "image": "https://via.placeholder.com/400x300?text=Handmade+Mug",
+    "sellerId": null
+  },
+  {
+    "id": "p2",
+    "name": "Cotton Kurta",
+    "price": 899,
+    "shortDesc": "Comfortable ethnic wear",
+    "longDesc": "100% cotton kurta, breathable and soft.",
+    "image": "https://via.placeholder.com/400x300?text=Cotton+Kurta",
+    "sellerId": null
+  },
+  {
+    "id": "p3",
+    "name": "Wooden Photo Frame",
+    "price": 499,
+    "shortDesc": "Classic photo frame",
+    "longDesc": "Elegant wooden photo frame ideal for home or office decor.",
+    "image": "https://via.placeholder.com/400x300?text=Wooden+Photo+Frame",
+    "sellerId": null
+  },
+  {
+    "id": "p4",
+    "name": "Jute Tote Bag",
+    "price": 349,
+    "shortDesc": "Eco-friendly bag",
+    "longDesc": "Handwoven jute tote bag, perfect for shopping or daily use.",
+    "image": "https://via.placeholder.com/400x300?text=Jute+Tote+Bag",
+    "sellerId": null
+  },
+  {
+    "id": "p5",
+    "name": "Bamboo Plant",
+    "price": 249,
+    "shortDesc": "Indoor plant",
+    "longDesc": "Lucky bamboo plant that brings positivity to your home.",
+    "image": "https://via.placeholder.com/400x300?text=Bamboo+Plant",
+    "sellerId": null
+  },
+  {
+    "id": "p6",
+    "name": "Leather Wallet",
+    "price": 699,
+    "shortDesc": "Men's leather wallet",
+    "longDesc": "Premium leather wallet with multiple compartments for cards and cash.",
+    "image": "https://via.placeholder.com/400x300?text=Leather+Wallet",
+    "sellerId": null
+  },
+  {
+    "id": "p7",
+    "name": "Handcrafted Earrings",
+    "price": 199,
+    "shortDesc": "Traditional jewelry",
+    "longDesc": "Beautiful handcrafted earrings made with oxidized metal.",
+    "image": "https://via.placeholder.com/400x300?text=Handcrafted+Earrings",
+    "sellerId": null
+  },
+  {
+    "id": "p8",
+    "name": "Scented Candle",
+    "price": 299,
+    "shortDesc": "Aromatic candle",
+    "longDesc": "Lavender-scented soy candle that creates a calming atmosphere.",
+    "image": "https://via.placeholder.com/400x300?text=Scented+Candle",
+    "sellerId": null
+  },
+  {
+    "id": "p9",
+    "name": "Canvas Painting",
+    "price": 1599,
+    "shortDesc": "Wall art",
+    "longDesc": "Hand-painted canvas art to enhance your living space.",
+    "image": "https://via.placeholder.com/400x300?text=Canvas+Painting",
+    "sellerId": null
+  },
+  {
+    "id": "p10",
+    "name": "Woolen Scarf",
+    "price": 449,
+    "shortDesc": "Winter wear",
+    "longDesc": "Soft woolen scarf with elegant texture and warm comfort.",
+    "image": "https://via.placeholder.com/400x300?text=Woolen+Scarf",
+    "sellerId": null
+  },
+  {
+    "id": "p11",
+    "name": "Clay Flower Pot",
+    "price": 189,
+    "shortDesc": "Terracotta pot",
+    "longDesc": "Handmade clay pot ideal for small indoor plants or herbs.",
+    "image": "https://via.placeholder.com/400x300?text=Clay+Flower+Pot",
+    "sellerId": null
+  },
+  {
+    "id": "p12",
+    "name": "Herbal Soap Pack",
+    "price": 299,
+    "shortDesc": "Natural skincare",
+    "longDesc": "Set of 3 herbal soaps made from natural oils and organic ingredients.",
+    "image": "https://via.placeholder.com/400x300?text=Herbal+Soap+Pack",
+    "sellerId": null
+  }
+]
